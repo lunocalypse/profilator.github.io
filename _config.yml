@@ -9,6 +9,7 @@ description: Lorem ipsum dolor
 navbar-links:
   About: "about"
   Documentation:
+    - User Guide: "lunocalypse.github.io/profilator.github.io/user-guide"
     - GitHub: "https://github.com/profilator"
   Team: "team"
 
